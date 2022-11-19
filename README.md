@@ -1,0 +1,1 @@
+Please note that these scripts are meant to be run by JAMF.
